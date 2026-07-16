@@ -55,7 +55,7 @@ const Projects = () => (
 const Contact = () => (
   <section id="contact" className="section">
     <h2>Contact</h2>
-    <p>Let's build something together! Email: developer@example.com</p>
+    <p>Let's build something together! Email: amit@amitdev.dpdns.org</p>
   </section>
 );
 
